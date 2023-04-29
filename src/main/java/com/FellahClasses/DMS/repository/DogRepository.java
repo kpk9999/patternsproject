@@ -2,16 +2,12 @@ package com.FellahClasses.DMS.repository;
 
 /**
 *
-* @author Praveen 
+* @author Udaykiran Kolla 
 
 */
 
 import java.util.List;
 
-/**
-*
-* @author Praveen Krishnamaneni
-*/
 
 import org.springframework.data.repository.CrudRepository;
 

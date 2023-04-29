@@ -2,18 +2,12 @@ package com.FellahClasses.DMS.Controllers;
 
 /**
 *
-* @author Praveen 
+* @author Udaykiran Kolla 
 
 */
 
 import java.util.List;
 import java.util.Optional;
-
-/**
-*
-* @author Praveen Krishnamaneni
-*/
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

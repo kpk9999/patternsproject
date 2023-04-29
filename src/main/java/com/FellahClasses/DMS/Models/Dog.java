@@ -2,7 +2,7 @@ package com.FellahClasses.DMS.Models;
 
 /**
 *
-* @author Praveen Krishnamaneni
+* @author Udaykiran Kolla 
 */
 
 import javax.persistence.Entity;
